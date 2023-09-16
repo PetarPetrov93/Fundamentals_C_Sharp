@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SumAdjacentEqualNumbers", "01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers.csproj", "{4A7F2BCF-05B8-4CBF-BFFD-05132ABD23CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MergeLists", "03.MergeLists\03.MergeLists.csproj", "{96A7EDBD-C6B3-4C34-B344-7C3CB8DB04EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7F2BCF-05B8-4CBF-BFFD-05132ABD23CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7F2BCF-05B8-4CBF-BFFD-05132ABD23CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7F2BCF-05B8-4CBF-BFFD-05132ABD23CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7F2BCF-05B8-4CBF-BFFD-05132ABD23CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A7EDBD-C6B3-4C34-B344-7C3CB8DB04EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A7EDBD-C6B3-4C34-B344-7C3CB8DB04EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A7EDBD-C6B3-4C34-B344-7C3CB8DB04EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A7EDBD-C6B3-4C34-B344-7C3CB8DB04EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D224CD86-12E3-4CBA-90B2-1EA4428F40D9}
+	EndGlobalSection
+EndGlobal
